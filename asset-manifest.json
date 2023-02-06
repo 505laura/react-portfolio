@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1e85167.css",
+    "main.js": "/static/js/main.7d09e3db.js",
+    "static/media/Cityspire.gif": "/static/media/Cityspire.7f4b77b93b1b019685f8.gif",
+    "static/media/tech-blog.gif": "/static/media/tech-blog.236715eadf2ac222e08b.gif",
+    "static/media/code-quiz.gif": "/static/media/code-quiz.b66e8531123409a7804d.gif",
+    "static/media/LeagueSpartan-VF.woff2": "/static/media/LeagueSpartan-VF.6ed351c4a3144c5e355c.woff2",
+    "index.html": "/index.html",
+    "main.c1e85167.css.map": "/static/css/main.c1e85167.css.map",
+    "main.7d09e3db.js.map": "/static/js/main.7d09e3db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1e85167.css",
+    "static/js/main.7d09e3db.js"
+  ]
+}
